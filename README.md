@@ -2,7 +2,7 @@
 
 CaiQi USB Camera Driver, compatible with usb2.0 and usb3.0.
 
-This driver lib supports MT9V034, AR0134, AR0135 and SC130GS.
+This driver lib supports MT9V034, AR0134, AR0135 and SC130GS. For examples, only MT9V034` is involeved. 
 
 1. Required packages:
 
